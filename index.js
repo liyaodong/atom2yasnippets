@@ -76,7 +76,7 @@ const saveToDist = ({ dir, files }) => {
         return fs.outputFile(path.join(dir, name), content);
     });
 
-    Promise.all(writeFiles).then(() => console.log(`writed ${files.length} files to ${dir}`));
+    Promise.all(writeFiles).then(() => console.log(`wrote ${files.length} files to ${dir}`));
 };
 
 const main = () => {
