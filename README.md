@@ -18,6 +18,13 @@ eg for spacemacs user:
                                                     ))
 ```
 
-# Support language
+# Example Atom Snippet URL
+
+- example raw snippet url https://raw.githubusercontent.com/bryceosterhaus/atom-jest-snippets/master/snippets/mock.cson
+- example snippet repo https://github.com/bryceosterhaus/atom-jest-snippets
+- example snippet repo https://github.com/webbushka/atom-react-snippets
+- search more snippet: https://atom.io/packages/search?q=snippet
+
+# Language support
 - js-mode/js2-mode/react-mode
-- other launage? will add later 
+- other launage? will add later, contribute welcome
